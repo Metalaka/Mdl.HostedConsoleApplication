@@ -5,11 +5,14 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageVersion>1.0.1</PackageVersion>
         <PackageId>Mdl.HostedConsoleApplication</PackageId>
-        <Authors>Mdl</Authors>
+        <Authors>Metalaka</Authors>
         <Title>HostedConsoleApplication</Title>
         <PackageLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/Metalaka/Mdl.HostedConsoleApplication</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
+        <Product>HostedConsoleApplication</Product>
+        <PackageTags>hosting console application dependecy injection</PackageTags>
+        <Description>A simple extension method to build console applications the same way we build web apps.</Description>
     </PropertyGroup>
 
     <ItemGroup>
