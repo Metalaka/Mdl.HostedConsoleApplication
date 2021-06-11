@@ -7,7 +7,7 @@
         <PackageId>Mdl.HostedConsoleApplication</PackageId>
         <Authors>Metalaka</Authors>
         <Title>HostedConsoleApplication</Title>
-        <PackageLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/</PackageLicenseUrl>
+        <PackageLicenseExpression>CC0-1.0</PackageLicenseExpression>
         <RepositoryUrl>https://github.com/Metalaka/Mdl.HostedConsoleApplication</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <Product>HostedConsoleApplication</Product>
